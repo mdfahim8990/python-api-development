@@ -18,4 +18,6 @@ def getFamily(family: list) -> list:
     return family
 
 print(getFamily(['Fahim','Tamim','Abbu','ammu','bhai','vai','bon','vagni']))
- 
+list = ['Fahim','Tamim','Abbu','ammu','bhai','vai','bon','vagni']
+for l in list:
+    print(l)
